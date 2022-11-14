@@ -8,3 +8,7 @@
 #### Using commandline
 
 #### Using GUI tool
+
+### Contact
+- Email: qkhuyit@gmail.com
+- Phone: +84 343 900 994
