@@ -6,7 +6,7 @@
 
 ### Guide
 #### Using commandline
- `zeus-dongle -m reset -t huawei-auth -u admin -p your-modem-password`
+ `zeus-dongle -a reset -m huawei-auth -u admin -p your-modem-password`
  
  _**zeus-dongle help:**_
  
