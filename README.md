@@ -10,13 +10,13 @@
  
  _**zeus-dongle help:**_
  
- - -m|method=: Action execute, value must is one of [reset, deep-reset, fast-reset, reboot, device-info, network-info].
+ - -a|action=: Action execute, value must is one of [reset, deep-reset, fast-reset, reboot, device-info, network-info].
  
  - -u|username=: Login username (Optional - only use for huawei-auth modem).
  
  - -p|password=: Login password (Optional - only use for huawei-auth modem).
  
- - -t|type=: Dongle modem type, value must is one of [dialup, huawei-auth, huawei-none-auth].
+ - -m|model=: Dongle modem type, value must is one of [dialup, huawei-auth, huawei-none-auth].
  
  - -h|help:  Help_
 #### Using GUI tool
