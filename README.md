@@ -20,7 +20,7 @@
  
  - -m|model=: Dongle modem type, value must is one of [dialup, huawei-auth, huawei-none-auth].
  
- - -h|help:  Help_
+ - -h|help:  Help
 #### Using GUI tool
 
 ### Contact
