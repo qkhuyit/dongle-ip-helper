@@ -4,6 +4,8 @@
  - Huawei E3276
  - Huawei E173
 
+#### Setup
+
 ### Guide
 #### Using commandline
  `zeus-dongle -a reset -m huawei-auth -u admin -p your-modem-password`
